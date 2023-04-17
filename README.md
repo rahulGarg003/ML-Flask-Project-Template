@@ -1,0 +1,1 @@
+# Project Structure Template for Machine Learning and Flask app
